@@ -2,5 +2,5 @@ def Person
 end
 
 
-# simo = Person.new
-simo2 = Person.new
+adele_goldberg = Person.new
+alan_kay = Person.new
