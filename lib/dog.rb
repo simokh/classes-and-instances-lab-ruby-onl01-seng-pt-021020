@@ -1,6 +1,6 @@
 class dog
-end 
+end
 
 fido = puppy
-snoopy = puppy3 
+snoopy = puppy3
 lassie = puppy2
