@@ -1,5 +1,5 @@
-class dog
-end
+# class dog
+# end
 
 # fido = puppy
 # snoopy = puppy3
